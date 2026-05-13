@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+scipy
+pillow
+diffusers
+transformers
+timm
+tqdm
+accelerate
+wandb
+requests
+einops
